@@ -157,7 +157,7 @@ program
     console.log('📋 Available Health Checks:\n');
     console.log('1. package-json      - Validates package.json structure and required fields');
     console.log('2. spec-files        - Finds and validates specification markdown files');
-    console.log('3. term-references   - Unresolved [[ref:]] and dangling [[def:]] terms');
+    console.log('3. term-references   - Unresolved refs / dangling defs in index.html (or published gh pages)');
     console.log('\nUsage: spec-up-t-healthcheck check <target> --checks package-json,spec-files,term-references');
   });
 

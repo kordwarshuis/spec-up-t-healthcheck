@@ -1,6 +1,6 @@
 {
   "name": "spec-up-t-healthcheck",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "description": "Modular health check tool for spec-up-t repositories - works in Node.js, browsers, and CLI",
   "type": "module",
   "main": "lib/index.js",
